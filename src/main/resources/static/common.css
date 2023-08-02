@@ -1,0 +1,86 @@
+body {
+font-size: 14px;
+font-family: Verdana,  serif;
+font-style: normal;
+text-align: center;
+color: #061029;
+}
+
+#logo {
+width: 80%;
+height: 140px;
+margin: 0px auto;
+font-size: 60px;
+font-weight: 700;
+color: #006666;
+text-align: left;
+}
+
+#menu {
+text-align: center;
+height: 50px;
+border-top: 2px solid #006666;
+background-color: #008080;
+}
+
+.button {
+font-weight: 600;
+font-size: 16px;
+margin: 5px 10px;
+text-align: center;
+text-decoration: none;
+border: 2px solid #006666;
+border-radius: 8px;
+padding: 5px 20px;
+color: #008080;
+transition: 0.5s;
+background-color: #ffe2c7;
+cursor: pointer;
+display: inline-block;
+}
+
+.button:hover{
+font-size: 16px;
+margin: 5px 10px;
+text-align: center;
+text-decoration: none;
+border: 2px solid #ffd5ad;
+border-radius: 8px;
+padding: 5px 20px;
+color: #008080;
+background-color: #ffd5ae;
+cursor: pointer;
+display: inline-block;
+}
+
+#content {
+width: 80%;
+margin: 20px auto;
+text-align: center;
+}
+
+#info {
+    height: 20px;
+}
+
+.input{
+font-size: 16px;
+margin: 5px 10px;;
+border: 2px solid #ffe5cc;
+border-radius: 8px;
+padding: 5px 20px;
+color: #000000;
+display: inline-block;
+background-color: #fff2e6;
+}
+
+.input:hover{
+font-size: 16px;
+margin: 5px 10px;
+border: 2px solid #332d28;
+border-radius: 8px;
+padding: 5px 20px;
+color: #332d28;
+display: inline-block;
+background-color: #fff2e6;
+}

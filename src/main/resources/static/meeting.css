@@ -1,0 +1,39 @@
+.meeting {
+    background-color: #fff2e6;
+    text-align: left;
+    margin: 10px;
+    border: 2px solid #ffe5cc;
+}
+
+.meeting:hover {
+    background-color: #fff2e6;
+    text-align: left;
+    margin: 10px;
+    border: 2px solid #ffe5cc;
+}
+
+.meeting .subject {
+    font-size: 30px;
+    margin: 5px;
+    display: inline-block;
+    width: 20%
+}
+
+.meeting .lecturer {
+    font-size: 30px;
+    margin: 5px;
+    display: inline-block;
+    width: 20%
+}
+
+.meeting .students {
+    margin: 5px;
+    display: inline-block;
+    width: 50%
+}
+
+.meeting .students .sample_student {
+    font-size: 20px;
+    margin: 2px;
+    display: inline-block;
+}
