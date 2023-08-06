@@ -1,7 +1,6 @@
 package pl.tomwodz.university.controllers.subject;
 
 import org.springframework.http.HttpStatus;
-import pl.tomwodz.university.controllers.student.dto.response.UpdateStudentResponseDto;
 import pl.tomwodz.university.controllers.subject.dto.request.CreateSubjectRequestDto;
 import pl.tomwodz.university.controllers.subject.dto.request.UpdateSubjectRequestDto;
 import pl.tomwodz.university.controllers.subject.dto.response.*;

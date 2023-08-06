@@ -4,8 +4,6 @@ import jakarta.validation.Valid;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import pl.tomwodz.university.controllers.student.StudentMapper;
-import pl.tomwodz.university.controllers.student.dto.response.UpdateStudentResponseDto;
 import pl.tomwodz.university.controllers.subject.dto.request.CreateSubjectRequestDto;
 import pl.tomwodz.university.controllers.subject.dto.request.UpdateSubjectRequestDto;
 import pl.tomwodz.university.controllers.subject.dto.response.*;
